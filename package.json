@@ -1,0 +1,11 @@
+{
+  "name": "component-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ignacio <55958716+dev-ignacio-h@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
